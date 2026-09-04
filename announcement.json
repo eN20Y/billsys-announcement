@@ -1,5 +1,5 @@
 {
     "enabled": true,
-    "type": "Billing",
-    "message": "📢 Billing: We are fixing the PPPoE recharge process to ensure the newly recharged plan is properly reflected and applied. Active PPPoE connections may be disconnected during recharge. Thank you for your understanding!"
+    "type": "Maintenance",
+    "message": "📢 Maintenance: We are fixing the PPPoE recharge process to ensure the newly recharged plan is properly reflected and applied. Active PPPoE connections may be disconnected during recharge. Thank you for your understanding!"
 }
