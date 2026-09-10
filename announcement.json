@@ -1,5 +1,5 @@
 {
-    "enabled": false,
-    "type": "Scheduled Maintenance",
-    "message": "Our server will undergo scheduled maintenance to perform system improvements, optimize performance, and apply important updates. Some services may be temporarily unavailable during the maintenance period. Thank you for your patience and understanding!"
+    "enabled": true,
+    "type": "[IMPORTANT REMINDER]",
+    "message": "Always back up your data regularly. Make sure your database and important system files are safely backed up before performing server maintenance, updates, or system changes."
 }
