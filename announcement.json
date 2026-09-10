@@ -1,5 +1,5 @@
 {
-    "enabled": true,
-    "type": "[IMPORTANT REMINDER]",
+    "enabled": false,
+    "type": "IMPORTANT REMINDER",
     "message": "Always back up your data regularly. Make sure your database and important system files are safely backed up before performing server maintenance, updates, or system changes."
 }
