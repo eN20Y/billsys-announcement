@@ -1,5 +1,5 @@
 {
     "enabled": true,
-    "type": "Maintenance",
-    "message": "Maintenance: We are fixing the PPPoE recharge process to ensure the newly recharged plan is properly reflected and applied. Active PPPoE connections may be disconnected during recharge. Thank you for your understanding!"
+    "type": "Scheduled Maintenance",
+    "message": "Our server will undergo scheduled maintenance to perform system improvements, optimize performance, and apply important updates. Some services may be temporarily unavailable during the maintenance period. Thank you for your patience and understanding!"
 }
