@@ -1,5 +1,5 @@
 {
-    "enabled": true,
+    "enabled": false,
     "type": "Scheduled Maintenance",
     "message": "Our server will undergo scheduled maintenance to perform system improvements, optimize performance, and apply important updates. Some services may be temporarily unavailable during the maintenance period. Thank you for your patience and understanding!"
 }
