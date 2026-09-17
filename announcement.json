@@ -1,5 +1,5 @@
 {
     "enabled": true,
-    "type": "IMPORTANT REMINDER",
-    "message": "If you encounter any bugs, please report them to Jimmy Ensoy Asong Jr. on Facebook. If you have any suggestions or feedback, feel free to message me."
+    "type": "NEW FEATURES",
+    "message": "Due Date filtering and sorting have been added. You can now filter customer accounts by Due Date From and Due Date To and sort the results by Due Date. If you encounter any bugs or have suggestions and feedback, please message Jimmy Ensoy Asong Jr. on Facebook."
 }
