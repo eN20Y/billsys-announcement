@@ -1,5 +1,5 @@
 {
     "enabled": true,
     "type": "NEW FEATURES",
-    "message": "Due Date filtering and sorting have been added. You can now filter customer accounts by Due Date From and Due Date To and sort the results by Due Date. If you encounter any bugs or have suggestions and feedback, please message Jimmy Ensoy Asong Jr. on Facebook."
+    "message": "Added PPPoE and IPoE Total & Active connection monitoring with real-time status, SVG icons, animations, Dark Mode support, and improved responsive dashboard alignment. If you encounter any bugs or have suggestions and feedback, please message Jimmy Ensoy Asong Jr. on Facebook."
 }
