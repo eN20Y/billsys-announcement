@@ -1,5 +1,5 @@
 {
     "enabled": true,
-    "type": "NEW FEATURES",
-    "message": "Added PPPoE and IPoE Total & Active connection monitoring with real-time status, SVG icons, animations, Dark Mode support, and improved responsive dashboard alignment. If you encounter any bugs or have suggestions and feedback, please message Jimmy Ensoy Asong Jr. on Facebook."
+    "type": "IMPORTANT REMINDER",
+    "message": "Please keep OTA updates enabled. OTA updates are used to automatically deliver bug fixes, security and stability improvements, performance enhancements, and future updates. If you encounter any bugs or issues, please report them so they can be addressed through future OTA updates. For suggestions, feedback, or bug reports, please message BillSys on Facebook Page."
 }
