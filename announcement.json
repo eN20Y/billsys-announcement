@@ -1,5 +1,5 @@
 {
     "enabled": true,
-    "type": "IMPORTANT REMINDER",
-    "message": "Please keep OTA updates enabled. OTA updates are used to automatically deliver bug fixes, security and stability improvements, performance enhancements, and future updates. If you encounter any bugs or issues, please report them so they can be addressed through future OTA updates. For suggestions, feedback, or bug reports, please message BillSys on Facebook Page."
+    "type": "LATEST UPDATE",
+    "message": "BILLSYS has been updated with important improvements including fixed IPoE issues, an optimized MikroTik Resources Widget, improved cron and plan processing, automatic backup to Gmail, Quick Add Customer, and various bug fixes and performance optimizations. Please keep OTA updates enabled to receive future bug fixes, security updates, performance improvements, and new features automatically. For suggestions, feedback, or bug reports, please message BILLSYS on Facebook Page."
 }
