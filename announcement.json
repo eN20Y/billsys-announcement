@@ -1,5 +1,5 @@
 {
-"enabled": true,
-"type": "LATEST UPDATE",
-"message": "The developer is busy this week, so replies may be delayed. Thank you for your patience and understanding."
+    "enabled": true,
+    "type": "SERVER MAINTENANCE",
+    "message": "Our license server is currently down, and we are experiencing an issue validating licenses. We are working to restore the service as soon as possible. Thank you for your patience and understanding."
 }
