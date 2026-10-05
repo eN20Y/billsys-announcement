@@ -1,5 +1,5 @@
 {
     "enabled": true,
-    "type": "NETWORK ADVISORY",
-    "message": "Some customers may experience slow browser loading, delayed website access, or intermittent connectivity due to a reported issue affecting the EAC-C2C (East Asia Crossing–C2C) submarine cable system. The C2C Singapore segment is reportedly down, while the C2C Hong Kong segment is reportedly under maintenance. This may cause international internet traffic to be rerouted through alternative paths, resulting in slower browsing and higher latency. We are monitoring the situation and will provide updates as network conditions improve. Thank you for your patience and understanding."
+    "type": "NOTICE",
+    "message": "If you encounter any bugs, issues, or errors, or if you have suggestions, feature requests, or other concerns regarding BILLSYS, please send us a direct message on our official BILLSYS Facebook page. Your feedback helps us improve the system and provide better service. Thank you!"
 }
