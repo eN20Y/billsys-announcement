@@ -1,5 +1,6 @@
+
 {
     "enabled": true,
-    "type": "NOTICE",
-    "message": "If you encounter any bugs, issues, or errors, or if you have suggestions, feature requests, or other concerns regarding BILLSYS, please send us a direct message on our official BILLSYS Facebook page. Your feedback helps us improve the system and provide better service. Thank you!"
+    "type": "BILLSYS UPDATE",
+    "message": "Optimized SOA (Statement of Account) PDF generation for improved performance. Added Customer Balance Sorting for easier account management. Added Note on Recharge Confirmation for better transaction tracking. Thank you for your continued support!"
 }
