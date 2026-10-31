@@ -1,5 +1,5 @@
 {
     "enabled": true,
-    "type": "BILLSYS UPDATE",
-    "message": "If you receive an 'Update Available' notification, please disregard it for now. Kindly wait for our official announcement before proceeding with any updates. Thank you for your patience and continued support!"
+    "type": "BILLSYS HOLIDAY ADVISORY",
+    "message": "In observance of All Saints' Day and All Souls' Day, please expect possible delays in our support response times. Our BILLSYS development team will still attend to your concerns and will respond as quickly as possible. Rest assured that all inquiries and technical concerns will be addressed. Thank you for your understanding, patience, and continued support. Let us take this time to remember and honor our departed loved ones."
 }
